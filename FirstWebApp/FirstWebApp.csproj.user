@@ -5,6 +5,6 @@
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>FirstWebApp</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>lab09WebApp1 - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>FirstWebAppDukes - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
